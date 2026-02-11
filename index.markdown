@@ -3,4 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Inicio
 ---
+
+Este es mi sitio web creado con Jekyll y Github Pages.
