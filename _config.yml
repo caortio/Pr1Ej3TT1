@@ -10,10 +10,7 @@ url: "https://caortio.github.io"
 
 github_username: caortio
 
-theme: minima
-
-minima:
-  skin: auto   # auto / dark / solarized / classic
+theme: jekyll-theme-cayman
 
 plugins:
   - jekyll-feed
