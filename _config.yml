@@ -5,10 +5,8 @@ description: >-
   Página web realizada como práctica 1 de la asignatura Taller Transversal I.
   Proyecto realizado con Jekyll y GitHub Pages.
 
-baseurl: "/Pr1Ej3TT1"
 url: "https://caortio.github.io"
-
-github_username: caortio
+baseurl: "/Pr1Ej3TT1"
 
 theme: jekyll-theme-cayman
 
